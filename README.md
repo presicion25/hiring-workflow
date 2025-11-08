@@ -12,16 +12,16 @@
 
 1. Dramatically Reduced Time-to-Hire:
   
-  This Automation eliminates manual tasks like resume screening, interview scheduling, and candidate communication. 
-  What typically takes 2-3 weeks can be compressed to 5-7 days. 
+   This Automation eliminates manual tasks like resume screening, interview scheduling, and candidate communication. 
+   What typically takes 2-3 weeks can be compressed to 5-7 days. 
 
 2. Consistent Candidate Experience and Reduced Drop-off:
   
- This automation ensure every candidate receives timely responses, clear next steps, and professional communication regardless of application volume.
+   This automation ensure every candidate receives timely responses, clear next steps, and professional communication regardless of application volume.
 
 3. Significant Cost Savings Through Efficiency: 
 
- By automating resume parsing, initial screening, interview coordination, and offer letter generation, you can reduce recruiting team workload by 60-70%. 
+   By automating resume parsing, initial screening, interview coordination, and offer letter generation, you can reduce recruiting team workload by 60-70%. 
 
 
 
