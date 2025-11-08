@@ -3,7 +3,7 @@
 <img width="960" height="540" alt="n8n Hiring Workflow" src="https://github.com/user-attachments/assets/f0549c73-da92-4f58-9a77-71927e75b9b3" />
 
 
-<b> This automation uses google drive and AI to match the candidate's CV (in PDF format) against the job requirements, outputting a summary and qualification rating rating on to a google sheet.
+<b> This automation uses google drive and AI to match the candidate's CV (in PDF format) against the job requirements, outputting a qualification rating and summary of the rating on to a google sheet.
 
 </br>
 </br>
