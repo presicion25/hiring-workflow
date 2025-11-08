@@ -8,22 +8,22 @@
 </br>
 </br>
 
-<h2>Here are three key benefits of automating client project onboarding:
+<h2>Here are three key benefits of automating client project onboarding</h2>
 
-<h2> Dramatically Reduced Time-to-Hire:
+1. Dramatically Reduced Time-to-Hire:
   
   This Automation eliminates manual tasks like resume screening, interview scheduling, and candidate communication. 
   What typically takes 2-3 weeks can be compressed to 5-7 days. 
 
-<h2> Consistent Candidate Experience and Reduced Drop-off:
+2. Consistent Candidate Experience and Reduced Drop-off:
   
  This automation ensure every candidate receives timely responses, clear next steps, and professional communication regardless of application volume.
 
-</h2>  Significant Cost Savings Through Efficiency: 
+3. Significant Cost Savings Through Efficiency: 
 
  By automating resume parsing, initial screening, interview coordination, and offer letter generation, you can reduce recruiting team workload by 60-70%. 
 
- </h2>
+
 
 <h2>To view the automation click the arrow below:</h2> 
 
