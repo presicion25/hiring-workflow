@@ -33,7 +33,7 @@
 
 </summary>
 
-[![Hiring Workflow Automation](https://i.vimeocdn.com/video/2016479704-53a07e42c65301fc51ad33ca009743df86e7a5682e2db21559a5ed3592fdbc4b-d_142x80?&r=pad&region=us)](https://vimeo.com/1084952894?share=copy&fl=sv&fe=ci "Hiring Workflow")
+[![Hiring Workflow Automation](https://i.vimeocdn.com/video/2016479704-53a07e42c65301fc51ad33ca009743df86e7a5682e2db21559a5ed3592fdbc4b-d_295x166?&r=pad&region=us)](https://vimeo.com/1084952894?share=copy&fl=sv&fe=ci "Hiring Workflow")
 
 
 
